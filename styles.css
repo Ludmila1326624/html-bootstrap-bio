@@ -1,0 +1,33 @@
+/* Центрування тексту */
+.center-text {
+  text-align: center;
+}
+
+/* Стилізація фото */
+img {
+  max-width: 150px;
+  margin-bottom: 15px;
+}
+
+/* Кнопки */
+a.btn {
+  margin-bottom: 8px;
+}
+
+/* Секції праворуч */
+h4 {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+/* Заголовок */
+h2 {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+/* Основне тіло */
+body {
+  padding: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
