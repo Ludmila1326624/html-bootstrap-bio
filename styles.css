@@ -26,8 +26,12 @@ h2 {
   margin-bottom: 10px;
 }
 
-/* Основне тіло */
-body {
-  padding: 30px;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+/* Контейнер */
+.container {
+  margin-top: 50px;
+}
+
+/* Текст правої колонки */
+.col-md-8 p {
+  margin-bottom: 10px;
 }
